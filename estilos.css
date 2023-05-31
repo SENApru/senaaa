@@ -1,0 +1,75 @@
+.presentacion{
+  text-align: center;
+  color: #c5cae9;
+  top: 50%;
+  
+}
+.titulo2{
+  font-family: 'Pacifico', cursive;
+color: #f48fb1;
+}
+.dwld{
+  text-align: center;
+  color: #6b32f1;
+}
+.titulo1 {
+  
+  text-align: center;
+  font-family: 'Rubik Wet Paint', cursive;
+  
+}
+.ul1{
+  font-family: 'Pangolin', cursive;
+  color: #ce93d8 ;
+}
+
+.lista-container {
+  
+  cursor: pointer;
+  max-height: 400px;
+  overflow-y: scroll;
+  position: relative;
+  top: 10%;
+}
+
+.icono1 {
+  
+  color: #6b32f1;
+}
+.card-body{
+  background-color: white;
+}
+
+.code{
+  color: red;
+  font-size: 300%;
+
+}
+
+.contenido {
+  
+  position: absolute;
+  top: 12%;
+  left: 25%;
+  width: 90%;
+}
+.parrafo1{
+  color: aqua;
+  
+}
+.sec1{
+  background-color: #27026d ;
+  color: #c5cae9;
+  font-family: 'Courier New', Courier, monospace;
+}
+.img{
+  width: fit-content;
+}
+.docs{
+  top: 30%;
+}
+.name{
+  text-align-last: left;
+  position: fixed;
+  top: 5%;
+}
